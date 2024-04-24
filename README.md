@@ -1,4 +1,4 @@
-# Static Website Hosting on AWS S3
+# Static Website Hosting on Amazon S3
 
 ## Overview
 This guide provides steps to host a static website on Amazon S3. By following these steps, you can create a scalable and reliable website that can handle high levels of traffic.
@@ -28,7 +28,7 @@ This guide provides steps to host a static website on Amazon S3. By following th
 Empty and terminate S3 Bucket (e.g. you may need to delete bucket policy). To avoid unnecessary costs, please double-check that no underlying resources are still running.
 
 ## Conclusion
-In this project, we demonstrated how to host a static website on AWS S3. By following these steps, we have created a scalable and reliable website that can handle high levels of traffic. Feel free to message me with code improvement suggestions.
+In this project, we demonstrated how to host a static website on Amazon S3. By following these steps, we have created a scalable and reliable website that can handle high levels of traffic. Feel free to message me with code improvement suggestions.
 
 ## Acknowledgment
-This tutorial is adapted from the [AWS S3 tutorial for hosting a static website](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html) provided by Amazon Web Services. We extend our gratitude to AWS for providing this valuable resource, which served as the foundation for the "Static Website Hosting on AWS S3" tutorial.
+This tutorial is adapted from the [Amazon S3 tutorial for hosting a static website](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html) provided by Amazon Web Services. We extend our gratitude to AWS for providing this valuable resource, which served as the foundation for the "Static Website Hosting on Amazon S3" tutorial.
